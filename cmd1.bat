@@ -11,9 +11,9 @@ echo ## membayar untuk mendapatkan ilmu ##
 echo ################################################## #########################
 echo ## ABOUT ME: ##
 echo ## ##
-echo ## * Name : HilmySakti ##
-echo ## * Github : https://github.com/HilmySakti ##
-echo ## * YouTube : HILMY GAMNG 87 ##
+echo ## * Name : NamaLu ##
+echo ## * Github : GithubLu ##
+echo ## * YouTube : YtLu ##
 echo ## ##
 echo ################################################## #########################
 echo ## Knowledge is just like a two-edged sword, use it wisely ##
